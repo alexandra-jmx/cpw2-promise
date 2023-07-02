@@ -1,0 +1,19 @@
+{
+    "images": [
+        {"imagemUrl": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=986&q=80", "name": "Gato e Cachorro"},
+        {"imagemUrl": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80", "name": "Hamster"},
+        {"imagemUrl": "https://images.unsplash.com/photo-1494913148647-353ae514b35e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=873&q=80", "name": "Cachorros"},
+        {"imagemUrl": "https://images.unsplash.com/photo-1452857297128-d9c29adba80b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80", "name": "Coelho"},
+        {"imagemUrl": "https://images.unsplash.com/photo-1534278931827-8a259344abe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80", "name": "Princesa porco espinho"},
+        {"imagemUrl": "https://images.unsplash.com/photo-1447684808650-354ae64db5b8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2067&q=80", "name": "Filhote de cachorro"},
+        {"imagemUrl": "https://images.unsplash.com/photo-1472718888560-1a1292f1cccb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80", "name": "Ovelhinha"},
+        {"imagemUrl": "https://images.unsplash.com/photo-1541336187922-bffa4ef13d45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80", "name": "Pug estiloso"},
+        {"imagemUrl": "https://images.unsplash.com/photo-1583768138297-718a9cc5b746?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80", "name": "Calopsita"},
+        {"imagemUrl": "https://images.unsplash.com/photo-1548767797-d8c844163c4c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80", "name": "Porquinho da índia"},
+        {"imagemUrl": "https://images.unsplash.com/photo-1548403119-4f9f60f7c064?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80", "name": "Gatinho"},
+        {"imagemUrl": "https://images.unsplash.com/photo-1489924034176-2e678c29d4c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80", "name": "Husky"},
+        {"imagemUrl": "https://images.unsplash.com/photo-1597633544424-4da83804df40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80", "name": "Corgi"},
+        {"imagemUrl": "https://images.unsplash.com/photo-1589656966895-2f33e7653819?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80", "name": "Urso Polar"},
+        {"imagemUrl": "https://images.unsplash.com/photo-1552071379-041b32707fed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGFuaW1haXN8ZW58MHwwfDB8fHwy&auto=format&fit=crop&w=500&q=60", "name": "Suricatos"}
+    ]
+}
